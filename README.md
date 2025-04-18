@@ -7,7 +7,8 @@ Distance-based HRTF selection and processing flowchart:
 
 
 
-<img width="355" alt="Screenshot 2025-04-14 at 14 28 41" src="https://github.com/user-attachments/assets/37c7c7b5-2b21-429f-be49-dee83cbcd6f8" />
+![Copy of Blank diagram (2) copy 2](https://github.com/user-attachments/assets/93bc8f56-b036-4335-921e-36c32ad80a42)
+
 
 
 1: You need to download the SOFA file used in this plugin through this link, and put it on your desktop before running this plugin:
