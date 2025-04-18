@@ -7,7 +7,7 @@ Distance-based HRTF selection and processing flowchart:
 
 
 
-![Copy of Blank diagram (2) copy 2](https://github.com/user-attachments/assets/93bc8f56-b036-4335-921e-36c32ad80a42)
+<img width="577" alt="Screenshot 2025-04-18 at 16 02 48" src="https://github.com/user-attachments/assets/442d470c-9e48-4bbd-a362-bc134442bba4" />
 
 
 
