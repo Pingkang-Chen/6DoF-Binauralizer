@@ -1,3 +1,6 @@
+Demo Video: Using this plugin for digital piano playing under 6Dof binaurall with headphone
+https://youtu.be/wJ0qniDd1JE?si=1RoFfilRrDVx_Z7S
+
 Plugin's UI:
 <img width="949" alt="Screenshot 2025-04-08 at 10 21 38" src="https://github.com/user-attachments/assets/23be1072-627d-4742-ab91-2fa005ffeda6" />
 
